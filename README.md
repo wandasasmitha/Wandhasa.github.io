@@ -22,35 +22,35 @@
 
  <table border=1>
  <caption>Tabel Data Usia/caption>
- <! --header-->
+ <!--header-->
  <tr>
  <th>No</th>
  <th>Nama</th>
  <th>usia</th>
  </tr>
 
- < !--Baris data pertama -->
+ <!--Baris data pertama-->
  <tr>
  <td>1</td>
  <td> Wanda </td>
  <td> 21</td>
 
 
- < !-- baris Data kedua-->
+ <!--baris Data kedua-->
  <tr>
  <td>2</td>
  <td>Lintang</td>
  <td>23</td>
 
 
- < !-- baris data ketiga -->
+ <!--baris data ketiga-->
  <tr>
  <td>3</td>
  <td>Wibi</td>
  <td>10</td>
 
 
- < !-- baris data keempat -->
+ <!--baris data keempat-->
  <tr>
  <td>4</td>
  <td>Galih</td>
