@@ -20,7 +20,6 @@
  <b>terimakasih &#9829;
   <p>
 
- </body>
  <table border=1>
  <caption>Tabel Data Usia/caption>
  <! --header-->
