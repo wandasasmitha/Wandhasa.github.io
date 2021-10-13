@@ -14,7 +14,7 @@
  <p> 
  <img src="wanda.jpg" width="150">
  <p>
- <a href="https://instagram.com/wandhasa"> "klik disini untuk melihat instagram pribadi saya"
+ <a href="https://instagram.com/wandhasa"> "klik disini untuk melihat instagram pribadi saya"</a>
  <p>
  Hallo ini website pertama saya . masih belajar mohon dukungannya <b>
  <b>terimakasih &#9829;
