@@ -56,5 +56,28 @@
  <td>Galih</td>
  <td>24</td>
 
+<p>
+	  <h3>Daftar Buah</h3>
+	  <ol type="a" start="6">
+		  <li>Melon</li>
+		  <li>Mangga</li>
+		  <li>Anggur</li>
+		  <li>Kelengkeng</li>
+		  <li>Jeruk</li>
+	  </ol>
+		<ol type="A" start="6">
+		  <li>Melon</li>
+		  <li>Mangga</li>
+		  <li>Anggur</li>
+		  <li>Kelengkeng</li>
+		  <li>Jeruk</li>
+	  </ol>
+		  <ol type="I" start="6">
+		  <li>Melon</li>
+		  <li>Mangga</li>
+		  <li>Anggur</li>
+		  <li>Kelengkeng</li>
+		  <li>Jeruk</li>
+	  </ol>
 </body>
  </html>
