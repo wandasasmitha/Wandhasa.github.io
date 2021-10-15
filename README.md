@@ -55,7 +55,6 @@
  <td>4</td>
  <td>Galih</td>
  <td>24</td>
-
 <p>
 	  <h3>Daftar Buah</h3>
 	  <ol type="a" start="6">
