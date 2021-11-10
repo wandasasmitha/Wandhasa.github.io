@@ -1,7 +1,7 @@
 p
 {
 	background : #FFD9D9;
-	border-bottom : 4px light coral;
+	border-bottom : 4px solid blue;
 	padding-top : 15px;
 	margin : -10px;
 	display : block;
@@ -11,4 +11,4 @@ p
 	vertical-align : center;
 }
 
-h1 { color : blue;}
+h1 { color : Black;}
